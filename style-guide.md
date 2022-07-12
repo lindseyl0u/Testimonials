@@ -30,9 +30,9 @@ Note for text colors:
 
 ### Body Copy
 
-- Font size: 13px
+<!-- - Font size: 13px -->
 
 ### Font
 
-- Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
+<!-- - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed) -->
 - Weights: 500, 600
